@@ -28,16 +28,19 @@ Secondary Color (Orange): #e0b354;
   h1 {
     font-size: 30px;
     font-weight: 700;
+    text-align: center;
   }
   
   h2 {
     font-size: 24px;
     font-weight: 700;
+    text-align: center;
   }
   
   h3 {
     font-size: 18px;
     font-weight: 700;
+    text-align: center;
   }
   button {
     /* overwrites browser defaults and resets the border */
@@ -84,6 +87,7 @@ Secondary Color (Orange): #e0b354;
   .profile {
     max-width: 700px;
     margin: 0 auto;
+    text-align: center;
   }
   .profile__portrait {
     float: left;
